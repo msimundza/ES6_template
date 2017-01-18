@@ -1,4 +1,7 @@
 /**
  * Created by msimu on 17.01.17..
  */
-console.log("bla");
+'use strict';
+import $ from 'jquery';
+
+console.log("Jquery is working " + $);
